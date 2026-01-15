@@ -1,0 +1,1 @@
+{"version":3,"file":"indexed-access.types.js","sourceRoot":"","sources":["../src/indexed-access.types.ts"],"names":[],"mappings":";;AAAA,+LAA+L;AAC/L,MAAM,OAAO,GAAG;IACd,IAAI,EAAE,OAAO;IACb,GAAG,EAAE,EAAE;IACP,WAAW,EAAE;QACX;YACE,EAAE,EAAE,IAAI;YACR,KAAK,EAAE,OAAO;YACd,WAAW,EAAE,qBAAqB;SACnC;KACF;CACF,CAAC"}
